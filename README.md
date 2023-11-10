@@ -29,7 +29,7 @@ Após isso, a tarefa será adicionada.
 
 ### Deletar tarefa
 
-![Deletar](projeto1/public/deletado.png)
+![Deletar](projeto1/public/todo_adicionar.png)
 
 Ao clicar no botão "deletar" na linha da tarefa, a tarefa em questão será deletada da lista.
 
