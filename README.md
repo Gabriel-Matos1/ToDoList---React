@@ -1,4 +1,4 @@
-# WebSite SUPREMO
+# To DO List 
 ![To-Do-List](projeto1/public/to_do_list.png)
 
 Web Site em desenvolvimento.
@@ -13,33 +13,36 @@ Web Site em desenvolvimento.
 
 ## Descrição do projeto
 
-O projeto é idealizado como um site na web, com conexão com um banco de dados MySQL onde o usuário pode se cadastrar, fazer login e navegar pelas funções do site. 
+O projeto é idealizado como uma lista de Tarefas, em que o usuário pode registrar suas tarefas, as marcar como feitas ou não e após isso pode deletar elas.
 
-*As funções do site ainda estão em desenvolvimento* 
 
 ## Visão Geral
 
-### Login
+### Adicionar Tarefa
 
-![Main](./arquivos/tela-login.png.png)
+![Adicionar](projeto1/public/to_do_adicionar.png)
 
-Para acessar o site, clique nos campos de texto e preencha os dados de login inseridos quando fez o cadastro. Caso seja o primeiro acesso, clicar em "Crie um".
-Ao inserir os dados de login, clique no botão "Entrar". O acesso será liberado caso as credenciais estejam certas. Caso não, a página será recarregada e disponibilizada para que você preencha os campos novamente.
+Para adicionar uma nova função no sistema, é apenas preciso digitar a tarefa no campo de texto e apertar no botão "ADD". 
+Após isso, a tarefa será adicionada.
+
+![Adicionar](projeto1/public/adicionado.png)
+
+### Deletar tarefa
+
+![Deletar](projeto1/public/deletado.png)
+
+Ao clicar no botão "deletar" na linha da tarefa, a tarefa em questão será deletada da lista.
+
+![Deletar](projeto1/public/deletado.png)
 
 
-### Cadastro
+### Deletar todas as tarefas
 
-![Login](./arquivos/tela-cadastro.png.png)
+![Deletar Todas](projeto1/public/deletar_tudo.png)
 
-O usuário deve inserir nome, email, senha e confirmação de senha nos devidos campos. Caso o e-mail já esteja cadastrado, uma mensagem aparecerá avisando isto. Apenas emails com "@" são aceitos no cadastro.
+Ao clicar no botão "Deletar Tudo", a lista inteira será deletada.
 
-
-
-### Página de Perfil
-
-![Perfil](./arquivos/perfil.png)
-
-A página de perfil mostrará os principais dados do cliente até o momento. 
+![Lista vazia](projeto1/public/to_do_list.png)
 
 ## Tecnologias
 
