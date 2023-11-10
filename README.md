@@ -53,7 +53,7 @@ As tecnologias utilizadas no desenvolvimento e suporte deste projeto são:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/web/javascript/guide/introduction)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [ViteJS](https://vitejs.dev/guide/)
-- [ReactJS][https://pt-br.legacy.reactjs.org/)
+- [ReactJS](https://pt-br.legacy.reactjs.org/)
   
 ## Desenvolvedor do projeto
 
